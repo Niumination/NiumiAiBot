@@ -21,4 +21,4 @@ def handle_message(message):
     response = generate_text(text)
     send_message(chat_id, response)
 
-bot.set_webhook(url=https://octo.hk/32DN8d41twBgmFvulnFk)
+bot.set_webhook(url='https://octo.hk/32DN8d41twBgmFvulnFk')
